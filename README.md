@@ -1,5 +1,5 @@
 # tensorfolw_cnn
-convlutional neurial network based on tensorflow
+convlutional neurial network based on tensorflow from autoEncoder, LeNet5, to alexNet, vggnet, googlelenet, resnet, denstnet etc, involving the runtime assumption and application. some new demo like YOLOv3 is just for interesting practice, more learning detail will learn in near future. 
 #### Convolutional Neural Network Demo Based On TensorFlow Frame
 
 ##### 第一章
